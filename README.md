@@ -1,0 +1,2 @@
+- 👋 Hola, soy Juako
+- 👀 Soy un pequeño configurador de servidores e intento aprender a programar pero soy malito
